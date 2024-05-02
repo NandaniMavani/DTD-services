@@ -1,0 +1,272 @@
+.profile-creation-adding-service .profile-creation-adding-services {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.profile-creation-adding-service .frame-2 {
+  margin: 0 32.7px 34px 32.7px;
+  display: flex;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .image-42 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_42.png') 50% / cover no-repeat;
+  margin-bottom: 16px;
+  width: 150px;
+  height: 150px;
+}
+.profile-creation-adding-service .carpentry-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.profile-creation-adding-service .carpentry {
+  box-shadow: 0px 3px 10px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50px;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 21px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+  flex-grow: 1;
+  flex-basis: 180px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .image-45 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_45.png') 50% / cover no-repeat;
+  margin-bottom: 16px;
+  width: 150.2px;
+  height: 150px;
+}
+.profile-creation-adding-service .cleaning-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.profile-creation-adding-service .cleaning {
+  box-shadow: 0px 3px 10px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50px;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 14.9px;
+  flex-grow: 1;
+  flex-basis: 180px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .container {
+  margin: 0 1px 30px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .image-43 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_43.png') 50% / cover no-repeat;
+  margin-bottom: 16px;
+  width: 150px;
+  height: 150px;
+}
+.profile-creation-adding-service .painting-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.profile-creation-adding-service .painting {
+  box-shadow: 0px 3px 10px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50px;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+  flex-grow: 1;
+  flex-basis: 180px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .image-44 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_441.png') 50% / cover no-repeat;
+  margin-bottom: 16px;
+  width: 150px;
+  height: 150px;
+}
+.profile-creation-adding-service .plumbing-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.profile-creation-adding-service .plumbing {
+  box-shadow: 0px 3px 10px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 50px;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 15px;
+  flex-grow: 1;
+  flex-basis: 180px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .container-2 {
+  margin-bottom: 178px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .next {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.profile-creation-adding-service .buttons {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 158px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .frame-3 {
+  margin: 0 12px;
+  display: flex;
+  width: 158px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .next-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.profile-creation-adding-service .next-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.profile-creation-adding-service .buttons-3 {
+  border-radius: 30px;
+  background: #0075FF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  padding: 15px 0;
+  height: 100%;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .next-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.profile-creation-adding-service .buttons-2 {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .frame-5 {
+  position: relative;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .group-31 {
+  position: relative;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .next-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.profile-creation-adding-service .buttons-1 {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .frame-4 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service .frame-6 {
+  position: absolute;
+  right: 36px;
+  bottom: 52px;
+  box-sizing: border-box;
+}
+.profile-creation-adding-service {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 61px 24px 52px 24px;
+  box-sizing: border-box;
+}

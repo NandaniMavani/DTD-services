@@ -1,0 +1,135 @@
+.login-page-for-user .rectangle-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 54px;
+  translate: -50% 0;
+  width: 339px;
+  height: 824px;
+}
+.login-page-for-user .ellipse-1 {
+  position: relative;
+  margin-bottom: 39px;
+  width: 208px;
+  height: 195px;
+}
+.login-page-for-user .login {
+  position: relative;
+  margin: 0 166.2px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.login-page-for-user .login-here-as-an-user {
+  position: relative;
+  margin: 0 112.3px 22px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page-for-user .enter-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.login-page-for-user .user-group-3 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 3px;
+  padding: 28px 0 3px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page-for-user .rectangle-4 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.login-page-for-user .enter-password-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.login-page-for-user .user-group-2 {
+  position: relative;
+  margin: 0 0 29px 1px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page-for-user .dont-have-an-account {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page-for-user .frame-160 {
+  margin-right: 10.4px;
+  display: flex;
+  box-sizing: border-box;
+}
+.login-page-for-user .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #D03434;
+}
+.login-page-for-user .frame-161 {
+  display: flex;
+  box-sizing: border-box;
+}
+.login-page-for-user .frame-162 {
+  position: relative;
+  margin: 0 24.9px 86px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page-for-user .login-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.login-page-for-user .group-1 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  display: flex;
+  padding: 10px 0 9px 0;
+  width: 202px;
+  box-sizing: border-box;
+}
+.login-page-for-user {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #EBBB87;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 134px 0 170px 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,84 @@
+.statecursor-blink .vector {
+  width: 26px;
+  height: 26px;
+}
+.statecursor-blink .checkbox-checked {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin-right: 9px;
+  display: flex;
+  width: 26px;
+  height: 26px;
+  box-sizing: border-box;
+}
+.statecursor-blink .wallpaper-installation {
+  margin: 4.5px 0 5.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.statecursor-blink .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.statecursor-blink .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.statecursor-blink .container-2 {
+  border-right: 1px solid #000000;
+  margin-right: 7px;
+  display: flex;
+  padding: 0 2.6px 0 2px;
+  box-sizing: border-box;
+}
+.statecursor-blink .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.statecursor-blink .container-4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.statecursor-blink .container-1 {
+  border: 1px solid #000000;
+  margin: 5px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  padding-right: 9.3px;
+  box-sizing: border-box;
+}
+.statecursor-blink .container {
+  margin: 0 11px 7px 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 21px);
+  box-sizing: border-box;
+}
+.statecursor-blink .container-7 {
+  overflow-wrap: break-word;
+}
+.statecursor-blink .container-6 {
+  border-radius: 10px;
+  border: 1px solid #7F7F7F;
+  padding: 15.5px 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.statecursor-blink {
+  border-radius: 5px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}

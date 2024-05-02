@@ -1,0 +1,337 @@
+.mask-group .rectangle-11 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 54px;
+  translate: -50% 0;
+  width: 339px;
+  height: 824px;
+}
+.mask-group .ellipse-11 {
+  position: relative;
+  margin-bottom: 39px;
+  width: 208px;
+  height: 195px;
+}
+.mask-group .signin-1 {
+  position: relative;
+  margin: 0 157px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.mask-group .signin-here-as-an-user-1 {
+  position: relative;
+  margin: 0 108.1px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mask-group .enter-email-here-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-31 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 7px;
+  padding: 28px 0 3px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .rectangle-42 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.mask-group .enter-password-here-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-21 {
+  position: relative;
+  margin-left: 1px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .rectangle-43 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.mask-group .enter-phone-number-here-1 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-41 {
+  position: relative;
+  margin: 0 0 20px 5px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .already-have-an-account-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mask-group .frame-1601 {
+  margin-right: 10.7px;
+  display: flex;
+  box-sizing: border-box;
+}
+.mask-group .login-3 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #D03434;
+}
+.mask-group .frame-1611 {
+  display: flex;
+  box-sizing: border-box;
+}
+.mask-group .frame-1621 {
+  position: relative;
+  margin: 0 13px 49px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .login-2 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.mask-group .group-11 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  display: flex;
+  padding: 10px 0 9px 0;
+  width: 202px;
+  box-sizing: border-box;
+}
+.mask-group .property-1-default {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #EBBB87;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 134px 0 170px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mask-group .rectangle-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 54px;
+  translate: -50% 0;
+  width: 339px;
+  height: 824px;
+}
+.mask-group .ellipse-1 {
+  position: relative;
+  margin-bottom: 39px;
+  width: 208px;
+  height: 195px;
+}
+.mask-group .signin {
+  position: relative;
+  margin: 0 157px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.mask-group .signin-here-as-an-user {
+  position: relative;
+  margin: 0 108.1px 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mask-group .enter-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-3 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 7px;
+  padding: 28px 0 3px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .rectangle-4 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.mask-group .enter-password-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-2 {
+  position: relative;
+  margin-left: 1px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .rectangle-41 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.mask-group .enter-phone-number-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.mask-group .user-group-4 {
+  position: relative;
+  margin: 0 0 20px 5px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .already-have-an-account {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mask-group .frame-160 {
+  margin-right: 10.7px;
+  display: flex;
+  box-sizing: border-box;
+}
+.mask-group .login-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #D03434;
+}
+.mask-group .frame-161 {
+  display: flex;
+  box-sizing: border-box;
+}
+.mask-group .frame-162 {
+  position: relative;
+  margin: 0 13px 49px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.mask-group .login {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.mask-group .group-1 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  display: flex;
+  padding: 10px 0 9px 0;
+  width: 202px;
+  box-sizing: border-box;
+}
+.mask-group .property-1-variant-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #EBBB87;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 134px 0 170px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mask-group .signin-page-for-user {
+  border-radius: 5px;
+  border: 1px dashed #9747FF;
+  display: flex;
+  flex-direction: column;
+  padding: 19px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.mask-group {
+  border-radius: 5px;
+  box-sizing: border-box;
+}

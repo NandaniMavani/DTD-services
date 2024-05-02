@@ -1,0 +1,159 @@
+.signin-page-for-service-provider .rectangle-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 54px;
+  translate: -50% 0;
+  width: 339px;
+  height: 824px;
+}
+.signin-page-for-service-provider .ellipse-1 {
+  position: relative;
+  margin: 0 0 39px 5px;
+  width: 208px;
+  height: 195px;
+}
+.signin-page-for-service-provider .signin {
+  position: relative;
+  margin: 0 152px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 32px;
+  color: #000000;
+}
+.signin-page-for-service-provider .signin-here-as-aservice-provider {
+  position: relative;
+  margin: 0 33.4px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.signin-page-for-service-provider .enter-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.signin-page-for-service-provider .group-3 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 2px;
+  padding: 28px 0 3px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .rectangle-41 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.signin-page-for-service-provider .enter-password-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.signin-page-for-service-provider .group-2 {
+  position: relative;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .rectangle-4 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 251px;
+  height: 57px;
+}
+.signin-page-for-service-provider .enter-phone-number-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.signin-page-for-service-provider .group-4 {
+  position: relative;
+  margin-bottom: 36px;
+  padding: 29px 0 2px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .already-have-an-account {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.signin-page-for-service-provider .frame-160 {
+  margin-right: 10.7px;
+  display: flex;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .login-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 600;
+  font-size: 16px;
+  color: #D03434;
+}
+.signin-page-for-service-provider .frame-161 {
+  display: flex;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .frame-162 {
+  position: relative;
+  margin: 0 18px 26px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider .login {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.signin-page-for-service-provider .group-1 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  margin-left: 5px;
+  display: flex;
+  padding: 10px 0 9px 0;
+  width: 202px;
+  box-sizing: border-box;
+}
+.signin-page-for-service-provider {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #EBBB87;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 134px 0 170px 0;
+  box-sizing: border-box;
+}

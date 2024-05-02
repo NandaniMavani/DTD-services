@@ -1,0 +1,14 @@
+.property-1-selected .container {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.property-1-selected {
+  border-radius: 10px;
+  background: #0066FF;
+  display: flex;
+  padding: 10px 15.8px;
+  box-sizing: border-box;
+}

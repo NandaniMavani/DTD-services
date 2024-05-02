@@ -1,0 +1,12 @@
+.close-button .frame {
+  transform: rotate(-45deg);
+  width: 19.8px;
+  height: 19.8px;
+}
+.close-button {
+  border-radius: 10px;
+  background: #EBEBEB;
+  display: flex;
+  padding: 0 0.2px 0.2px 0;
+  box-sizing: border-box;
+}

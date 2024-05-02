@@ -1,0 +1,72 @@
+.property-1-variant-2 .my-profile {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-variant-2 .frame-97 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 11px;
+  padding: 5px 17.7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-variant-2 .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-variant-2 .frame-98 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 8.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-variant-2 .my-schedule-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-variant-2 .frame-99 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 8.5px 16.4px;
+  box-sizing: border-box;
+}
+.property-1-variant-2 .my-schedule-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-variant-2 .frame-991 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-variant-2 {
+  background: rgba(255, 255, 255, 0.7);
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,50 @@
+.property-1-file-selected-1 .choose-file {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.property-1-file-selected-1 .frame-147 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 20px;
+  display: flex;
+  padding: 9px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 153px;
+  box-sizing: border-box;
+}
+.property-1-file-selected-1 .image-file {
+  background: url('../assets/images/image_file.png') 50% / contain no-repeat;
+  margin: 11px 20px 11px 0;
+  height: 25px;
+  flex-grow: 1;
+  flex-basis: 25px;
+}
+.property-1-file-selected-1 .painting-jpg {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.property-1-file-selected-1 .frame-148 {
+  background: #FFFFFF;
+  padding: 10px 12px;
+  flex-grow: 1;
+  flex-basis: 145px;
+  box-sizing: border-box;
+}
+.property-1-file-selected {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 26px 19px 9px;
+  box-sizing: border-box;
+}

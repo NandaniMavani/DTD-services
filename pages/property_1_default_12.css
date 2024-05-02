@@ -1,0 +1,21 @@
+.property-1-default-12 .rectangle-4 {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 2px;
+  right: 0px;
+  bottom: 0px;
+  height: 57px;
+}
+.property-1-default-12 .enter-password-here {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.property-1-default {
+  padding: 29px 0 2px 0;
+  box-sizing: border-box;
+}

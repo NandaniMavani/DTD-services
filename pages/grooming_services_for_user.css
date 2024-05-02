@@ -1,0 +1,240 @@
+.grooming-services-for-user .icon-magnifyingglass {
+  margin: 3.1px 12.5px 3.1px 0;
+  width: 15.6px;
+  height: 15.8px;
+}
+.grooming-services-for-user .placeholder {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  line-height: 1.294;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.grooming-services-for-user .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .sf-symbol-microphone {
+  margin: 2.2px 0;
+  width: 11.9px;
+  height: 17.7px;
+}
+.grooming-services-for-user .search-field {
+  border-radius: 10px;
+  background: var(--fill-color-light-tertiary, rgba(118, 118, 128, 0.12));
+  margin: 0 4px 55px 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 8px;
+  width: 369px;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .grooming-services {
+  filter: blur(2px);
+  margin: 0 31.7px 32px 29.7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  line-height: 0.647;
+  color: #000000;
+}
+.grooming-services-for-user .in-the-hands-of-aprofessional-2 {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional.jpeg') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.grooming-services-for-user .golden-star-hair-saloon-2 {
+  margin-right: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.grooming-services-for-user .frame-127 {
+  margin: 0 4px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.grooming-services-for-user .black-woman-in-white-bathrobe-and-head-towel-enjoying-her-skin-care-routine {
+  border-radius: 20px;
+  background: url('../assets/images/black_woman_in_white_bathrobe_and_head_towel_enjoying_her_skin_care_routine.jpeg') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.grooming-services-for-user .kelly-sbeauty {
+  margin-right: 0.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.grooming-services-for-user .frame-128 {
+  margin: 0 4px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.grooming-services-for-user .in-the-hands-of-aprofessional {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional_1.png') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.grooming-services-for-user .golden-star-hair-saloon {
+  margin-right: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.grooming-services-for-user .frame-129 {
+  margin: 0 4px 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.grooming-services-for-user .in-the-hands-of-aprofessional-1 {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional_2.png') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.grooming-services-for-user .golden-star-hair-saloon-1 {
+  margin-right: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.grooming-services-for-user .frame-130 {
+  margin-left: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.grooming-services-for-user .frame-126 {
+  filter: blur(2px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 12px 0 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .menu {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+  width: 55px;
+  height: 41px;
+}
+.grooming-services-for-user .home {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.grooming-services-for-user .frame-97 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 5px 19px 5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .my-schedule-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.grooming-services-for-user .frame-991 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 8.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.grooming-services-for-user .frame-99 {
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.grooming-services-for-user .frame-100 {
+  backdrop-filter: blur(2px);
+  position: absolute;
+  left: 15px;
+  top: 83px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+.grooming-services-for-user {
+  background: #FFFFFF;
+  display: flex;
+  padding: 35px 3px 0 3px;
+  box-sizing: border-box;
+}

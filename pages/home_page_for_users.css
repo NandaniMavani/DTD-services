@@ -1,0 +1,170 @@
+.home-page-for-users .icon-magnifyingglass {
+  margin: 3.1px 12.5px 3.1px 0;
+  width: 15.6px;
+  height: 15.8px;
+}
+.home-page-for-users .placeholder {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  line-height: 1.294;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.home-page-for-users .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.home-page-for-users .sf-symbol-microphone {
+  margin: 2.2px 0;
+  width: 11.9px;
+  height: 17.7px;
+}
+.home-page-for-users .search-field {
+  border-radius: 10px;
+  background: var(--fill-color-light-tertiary, rgba(118, 118, 128, 0.12));
+  margin: 0 0 55px 39px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 8px;
+  width: calc(100% - 39px);
+  box-sizing: border-box;
+}
+.home-page-for-users .services {
+  margin: 0 10px 36px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  line-height: 0.647;
+  color: #000000;
+}
+.home-page-for-users .in-the-hands-of-aprofessional {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional.jpeg') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.home-page-for-users .grooming-services {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.home-page-for-users .frame-127 {
+  margin: 0 8px 43px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.home-page-for-users .im-sorry-no-working-today-look-at-this-arrangement-icant-ruin-this-perfection {
+  background: url('../assets/images/im_sorry_no_working_today_look_at_this_arrangement_icant_ruin_this_perfection.jpeg') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.home-page-for-users .carpentry {
+  margin-right: 0.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.home-page-for-users .frame-136 {
+  margin: 0 8px 43px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.home-page-for-users .and-im-almost-done-with-the-cleaning-time {
+  background: url('../assets/images/and_im_almost_done_with_the_cleaning_time.jpeg') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.home-page-for-users .cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.home-page-for-users .group-33364 {
+  margin-right: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.home-page-for-users .frame-137 {
+  margin: 0 8px 43px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.home-page-for-users .getting-ready-to-draw-amasterpiece {
+  background: url('../assets/images/getting_ready_to_draw_amasterpiece.png') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.home-page-for-users .painting {
+  margin-right: 0.4px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.home-page-for-users .frame-138 {
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.home-page-for-users .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.home-page-for-users .menu {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+  width: 55px;
+  height: 41px;
+}
+.home-page-for-users {
+  background: #FFFFFF;
+  display: flex;
+  padding: 35px 7px 0 15px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,73 @@
+.property-1-default .my-profile {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-default .frame-167 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-default .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-default .frame-168 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-default .my-availability {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-default .frame-169 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 17.4px;
+  box-sizing: border-box;
+}
+.property-1-default .logout {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.property-1-default .frame-170 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.property-1-default {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+}

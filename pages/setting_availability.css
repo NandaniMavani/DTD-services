@@ -1,0 +1,1205 @@
+.setting-availability .menu {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  width: 55px;
+  height: 41px;
+}
+.setting-availability .frame-36 {
+  margin: 4.5px 0;
+  display: flex;
+  width: 55px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.setting-availability .ellipse-1 {
+  border-radius: 25px;
+  background: url('../assets/images/ellipse_1.jpeg') 50% / cover no-repeat;
+  width: 50px;
+  height: 50px;
+}
+.setting-availability .frame-37 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid #000000;
+  background: rgba(255, 255, 255, 0.5);
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 0 4px 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .setting-availability-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.setting-availability .frame-2 {
+  margin-bottom: 11px;
+  display: flex;
+  align-self: center;
+  box-sizing: border-box;
+}
+.setting-availability .container {
+  margin-bottom: 7px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .mon {
+  margin-right: 10px;
+  width: 40.7px;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .tue {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .wed {
+  margin-right: 18.2px;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .thur {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .container-15 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.setting-availability .fri {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .sat {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .sun {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .container-7 {
+  margin: 0 2.2px 18px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 315.4px;
+  box-sizing: border-box;
+}
+.setting-availability .container-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-42 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-43 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-44 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-45 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-46 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-6 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-47 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-48 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-4 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .container-21 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-62 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-22 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-63 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-23 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-64 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-24 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-65 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-25 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-66 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-26 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-67 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-27 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-68 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-12 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-57 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-28 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .calander-components {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-17 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-58 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-18 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-59 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-29 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .calander-components-1 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-19 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-60 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-20 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-61 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-9 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .container-10 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-51 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-11 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-52 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-12 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-53 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-30 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .calander-components-2 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-13 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-54 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-55 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-15 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-56 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 11.6px;
+  flex-grow: 1;
+  flex-basis: 40px;
+  box-sizing: border-box;
+}
+.setting-availability .container-3 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .container-8 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-49 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-right: 8px;
+  display: flex;
+  padding: 10px 11.6px;
+  box-sizing: border-box;
+}
+.setting-availability .container-9 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-50 {
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 11.6px;
+  box-sizing: border-box;
+}
+.setting-availability .container-8 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.setting-availability .testing-calandeer {
+  background: rgba(82, 117, 150, 0.25);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 36px 10px 36px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.setting-availability .group-33356 {
+  margin: 0 15px 14px 15px;
+  display: flex;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.setting-availability .please-select-time {
+  margin: 0 30.7px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .from {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-30 {
+  margin: 0 6px 20px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.setting-availability .am {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-69 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-74 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-1 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .am-7 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-6 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-75 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-14 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .am-4 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-73 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-4 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-78 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-6 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .am-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-72 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-5 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-79 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-5 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .am-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-71 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-76 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-10 {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .am-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-70 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 14px;
+  display: flex;
+  padding: 8.5px 9.2px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-77 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .container-11 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.setting-availability .container {
+  margin: 11px 19px 14px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 164px;
+  box-sizing: border-box;
+}
+.setting-availability .line-3 {
+  background: #000000;
+  margin-right: 18px;
+  height: 300px;
+  flex-grow: 1;
+  flex-basis: 1px;
+}
+.setting-availability .to {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.setting-availability .frame-31 {
+  margin-bottom: 20px;
+  display: flex;
+  box-sizing: border-box;
+}
+.setting-availability .am-6 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-81 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 11.2px 5px 0;
+  display: flex;
+  padding: 8.5px 9.2px;
+  box-sizing: border-box;
+}
+.setting-availability .am-5 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-80 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 11.2px 5px 0;
+  display: flex;
+  padding: 8.5px 9.2px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-9 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-85 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 11.2px 5px 0;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-8 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-84 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 11.2px 5px 0;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-7 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-83 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 11.2px 5px 0;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-6 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-82 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-right: 11.2px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .container-13 {
+  margin: 11px 2.8px 14px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  flex-grow: 1;
+  flex-basis: 86.2px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-11 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-87 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-10 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-86 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-13 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-89 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-14 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-90 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .am-8 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-61 {
+  border-radius: 50px;
+  background: #FFFFFF;
+  margin-bottom: 5px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .pm-12 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.setting-availability .frame-88 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.setting-availability .container-2 {
+  margin: 51px 0 14px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.setting-availability .frame-7 {
+  background: #D4DDE5;
+  margin: 0 15px 15px 15px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 17px;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.setting-availability .next {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.setting-availability .buttons {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 158px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.setting-availability .frame-3 {
+  margin: 0 36px;
+  display: flex;
+  align-self: flex-end;
+  width: 158px;
+  box-sizing: border-box;
+}
+.setting-availability {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 35px 0 67px 0;
+  box-sizing: border-box;
+}

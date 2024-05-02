@@ -1,0 +1,338 @@
+.showcasing-work .adding-certificates {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1541 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  margin-bottom: 39px;
+  display: flex;
+  padding-bottom: 3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.showcasing-work .cleaning-services {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-146 {
+  background: #99CFFF;
+  margin-bottom: 25px;
+  display: flex;
+  align-self: flex-start;
+  padding: 10px 0;
+  width: 261px;
+  box-sizing: border-box;
+}
+.showcasing-work .choose-file {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-147 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 9px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 153px;
+  box-sizing: border-box;
+}
+.showcasing-work .no-file-choosen {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-148 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 200px;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-149 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 1px 9px 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-152 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin: 0 10px 32px 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 4px;
+  width: calc(100% - 20px);
+  box-sizing: border-box;
+}
+.showcasing-work .painting-services {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1461 {
+  background: #99CFFF;
+  margin-bottom: 25px;
+  display: flex;
+  align-self: flex-start;
+  padding: 10px 0;
+  width: 253px;
+  box-sizing: border-box;
+}
+.showcasing-work .choose-file-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1471 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 9px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 153px;
+  box-sizing: border-box;
+}
+.showcasing-work .no-file-choosen-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1481 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 200px;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-150 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 1px 9px 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-1531 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin: 0 10px 41px 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 4px;
+  width: calc(100% - 20px);
+  box-sizing: border-box;
+}
+.showcasing-work .showcasing-work-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-2 {
+  margin-bottom: 13px;
+  display: flex;
+  box-sizing: border-box;
+}
+.showcasing-work .vector {
+  width: 26px;
+  height: 26px;
+}
+.showcasing-work .checkbox-checked {
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  margin: 1px 12.4px 0 0;
+  display: flex;
+  width: 26px;
+  height: 26px;
+  box-sizing: border-box;
+}
+.showcasing-work .yes {
+  margin-bottom: 0px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-154 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 11.5px 0 11.5px 20px;
+  width: 200px;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-157 {
+  background: #FFFFFF;
+  margin-bottom: 7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.showcasing-work .choose-file-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1472 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 10px;
+  display: flex;
+  padding: 9px 18.5px;
+  flex-grow: 1;
+  flex-basis: 124px;
+  box-sizing: border-box;
+}
+.showcasing-work .no-file-choosen-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.showcasing-work .frame-1482 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 200px;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-1501 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 30px 19px 9px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-156 {
+  background: #FFFFFF;
+  margin: 0 13px 0 12px;
+  display: flex;
+  width: calc(100% - 25px);
+  box-sizing: border-box;
+}
+.showcasing-work .frame-153 {
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin: 0 15px 50px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 39px 0 42px 0;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.showcasing-work .back {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.showcasing-work .buttons {
+  border-radius: 30px;
+  background: #A8A8A8;
+  margin-right: 28px;
+  display: flex;
+  padding: 15px 0;
+  flex-grow: 1;
+  flex-basis: 162px;
+  box-sizing: border-box;
+}
+.showcasing-work .next {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.showcasing-work .buttons-1 {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.showcasing-work .group-30 {
+  border-radius: 30px;
+  flex-grow: 1;
+  flex-basis: 170px;
+  box-sizing: border-box;
+}
+.showcasing-work .frame-3 {
+  margin: 0 32px 0 38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 70px);
+  box-sizing: border-box;
+}
+.showcasing-work {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 61px 0 52px 0;
+  box-sizing: border-box;
+}

@@ -1,0 +1,226 @@
+.rated-from-user-1 .feedback {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.2px;
+  color: #161616;
+}
+.rated-from-user-1 .header {
+  margin-bottom: 50px;
+  display: flex;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .in-the-hands-of-aprofessional {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional.jpeg') 50% / contain no-repeat;
+  position: absolute;
+  left: -5.8px;
+  bottom: 3.9px;
+  width: 128.3px;
+  height: 90.6px;
+}
+.rated-from-user-1 .mask-group {
+  border-radius: 14px;
+  position: relative;
+  margin-right: 18.7px;
+  width: 116.6px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .grooming-services {
+  position: relative;
+  margin-bottom: 7.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #161616;
+}
+.rated-from-user-1 .ellipse-28 {
+  margin: 6.9px 9.3px 6.2px 0;
+  width: 4.7px;
+  height: 3.9px;
+}
+.rated-from-user-1 .hrs {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #757575;
+}
+.rated-from-user-1 .container-1 {
+  margin-bottom: 1.7px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .ellipse-29 {
+  margin: 6.9px 9.3px 6.2px 0;
+  width: 4.7px;
+  height: 3.9px;
+}
+.rated-from-user-1 .hair-cut {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #757575;
+}
+.rated-from-user-1 .container {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .container-2 {
+  margin: 11.8px 0 26.3px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .rectangle-1091 {
+  border-radius: 20px;
+  border: 2px solid #F3F3F3;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.rated-from-user-1 .diamond-facial {
+  position: relative;
+  margin-bottom: 46px;
+  padding: 15.8px 18.7px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .how-would-you-rate-the-experienceand-service {
+  margin-bottom: 39.3px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #161616;
+}
+.rated-from-user-1 .vector {
+  width: 28.4px;
+  height: 27.4px;
+}
+.rated-from-user-1 .frame {
+  display: flex;
+  width: 28.4px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .vector-2 {
+  width: 28.4px;
+  height: 27.4px;
+}
+.rated-from-user-1 .frame-2 {
+  display: flex;
+  width: 28.4px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .vector-1 {
+  width: 28.4px;
+  height: 27.4px;
+}
+.rated-from-user-1 .frame-1 {
+  display: flex;
+  width: 28.4px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .vector-3 {
+  width: 28.4px;
+  height: 27.4px;
+}
+.rated-from-user-1 .frame-3 {
+  display: flex;
+  width: 28.4px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .vector-4 {
+  width: 28.4px;
+  height: 27.4px;
+}
+.rated-from-user-1 .frame-4 {
+  display: flex;
+  width: 28.4px;
+  height: 27.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .group-33355 {
+  margin: 0 1px 19.4px 0;
+  display: flex;
+  flex-direction: row;
+  column-gap: 22.6px;
+  width: 232.4px;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .good {
+  margin-bottom: 51px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #161616;
+}
+.rated-from-user-1 .it-was-good-experience-thanks-to-dtd-services {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #161616;
+}
+.rated-from-user-1 .frame-139 {
+  border-radius: 20px;
+  background: #F3F3F3;
+  margin-bottom: 60px;
+  padding: 19px 23px 133px 23px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.rated-from-user-1 .proceed {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  color: #FFFFFF;
+}
+.rated-from-user-1 .proceed-btns {
+  border-radius: 10px;
+  background: #283891;
+  position: relative;
+  margin: 0 15px;
+  display: flex;
+  padding: 14.9px 1.8px 16.1px 0;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.rated-from-user {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 76px 15px 102px 15px;
+  box-sizing: border-box;
+}

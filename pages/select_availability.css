@@ -1,0 +1,321 @@
+.select-availability .menu {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  width: 55px;
+  height: 41px;
+}
+.select-availability .frame-36 {
+  margin: 4.5px 0;
+  display: flex;
+  width: 55px;
+  height: 41px;
+  box-sizing: border-box;
+}
+.select-availability .ellipse-1 {
+  border-radius: 25px;
+  background: url('../assets/images/ellipse_1.jpeg') 50% / cover no-repeat;
+  width: 50px;
+  height: 50px;
+}
+.select-availability .frame-101 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-bottom: 1px solid #000000;
+  background: rgba(255, 255, 255, 0.5);
+  position: absolute;
+  left: 0px;
+  top: 35px;
+  right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 5px 0 4px 20px;
+  box-sizing: border-box;
+}
+.select-availability .my-services {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.select-availability .frame-38 {
+  filter: blur(2px);
+  background: #D4DDE5;
+  position: relative;
+  display: flex;
+  padding: 11.5px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.select-availability .image-45 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_45.png') 50% / cover no-repeat;
+  margin-bottom: 15px;
+  width: 100px;
+  height: 99.8px;
+}
+.select-availability .cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.select-availability .frame-411 {
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.6px 10px;
+  width: 120px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.select-availability .image-43 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background: url('../assets/images/image_43.png') 50% / cover no-repeat;
+  margin-bottom: 15px;
+  width: 100px;
+  height: 100px;
+}
+.select-availability .painting {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.select-availability .frame-41 {
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7.5px 10px;
+  width: 120px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.select-availability .frame-91 {
+  filter: blur(2px);
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 16px 0 16px 20px;
+  box-sizing: border-box;
+}
+.select-availability .my-profile {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-167 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.select-availability .my-schedule-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-168 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.select-availability .my-availability {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-169 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  margin-bottom: 10px;
+  display: flex;
+  padding: 9.5px 17.4px;
+  box-sizing: border-box;
+}
+.select-availability .logout {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-170 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #FFFFFF;
+  display: flex;
+  padding: 9.5px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.select-availability .frame-171 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 9px;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.select-availability .container {
+  position: relative;
+  margin: 0 3px 15px 0;
+  padding-top: 29px;
+  width: calc(100% - 3px);
+  height: 269px;
+  box-sizing: border-box;
+}
+.select-availability .my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.select-availability .frame-42 {
+  filter: blur(2px);
+  background: #D4DDE5;
+  margin: 0 0 15px 3px;
+  display: flex;
+  padding: 11.5px 0;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.select-availability .cleaning-sofa-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-94 {
+  border-radius: 20px;
+  background: rgba(255, 103, 103, 0.1);
+  margin-right: 6px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 258px;
+  box-sizing: border-box;
+}
+.select-availability .pm {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-78 {
+  border-radius: 20px;
+  background: rgba(142, 221, 255, 0.1);
+  margin-top: 2px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.select-availability .frame-95 {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.select-availability .painting-wallpaper-installation {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-941 {
+  border-radius: 20px;
+  background: rgba(255, 103, 103, 0.1);
+  margin-right: 6px;
+  display: flex;
+  padding: 9.5px 0;
+  width: 258px;
+  box-sizing: border-box;
+}
+.select-availability .pm-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.select-availability .frame-781 {
+  border-radius: 20px;
+  background: rgba(142, 221, 255, 0.1);
+  margin-top: 2px;
+  display: flex;
+  padding: 8.5px 9.4px;
+  box-sizing: border-box;
+}
+.select-availability .frame-96 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.select-availability .frame-93 {
+  filter: blur(2px);
+  border-radius: 20px;
+  background: #FFFFFF;
+  margin-left: 3px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 0 8px 5px;
+  width: calc(100% - 3px);
+  box-sizing: border-box;
+}
+.select-availability .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 433px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.select-availability {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 94px;
+  box-sizing: border-box;
+}

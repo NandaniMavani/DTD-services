@@ -1,0 +1,33 @@
+.property-1-price-1 .container {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.property-1-price-1 .line-2 {
+  background: #000000;
+  margin-right: 16.5px;
+  width: 1px;
+  height: 25px;
+}
+.property-1-price-1 .container-1 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.property-1-price {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  box-sizing: border-box;
+}

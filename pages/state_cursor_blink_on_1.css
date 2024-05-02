@@ -1,0 +1,14 @@
+.state-cursor-blink-on-1 .container {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.state-cursor-blink-on {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  padding: 17.5px 5.3px;
+  box-sizing: border-box;
+}

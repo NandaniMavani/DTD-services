@@ -1,0 +1,21 @@
+.frame-102 .user-side-pages {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 100px;
+  color: #000000;
+}
+.user-side-pages-sub2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 300px;
+  line-height: 1.333;
+}
+.frame-102 {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 10px;
+  width: 10888px;
+  box-sizing: border-box;
+}

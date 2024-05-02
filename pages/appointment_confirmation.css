@@ -1,0 +1,56 @@
+.appointment-confirmation .frame {
+  margin-bottom: 51px;
+  width: 134px;
+  height: 134px;
+}
+.appointment-confirmation .process-completed {
+  margin: 0 13.2px 51px 13.2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 0.938;
+  color: #52B46B;
+}
+.appointment-confirmation .congratulations-you-have-successfully-created-your-profile {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.5;
+  color: #161616;
+}
+.appointment-confirmation .frame-158 {
+  margin-bottom: 154px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.appointment-confirmation .login {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.appointment-confirmation .group-1 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  display: flex;
+  padding: 10px 0 9px 0;
+  width: 202px;
+  box-sizing: border-box;
+}
+.appointment-confirmation {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 185px 0 133px 0;
+  box-sizing: border-box;
+}

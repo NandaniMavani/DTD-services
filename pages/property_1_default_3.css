@@ -1,0 +1,14 @@
+.property-1-default-3 .select {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.property-1-default {
+  border-radius: 15px;
+  background: #ACD2FF;
+  display: flex;
+  padding: 10px 16.3px 10px 10px;
+  box-sizing: border-box;
+}

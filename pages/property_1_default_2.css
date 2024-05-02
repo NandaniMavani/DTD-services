@@ -1,0 +1,45 @@
+.property-1-default-2 .choose-file {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.property-1-default-2 .frame-147 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin-right: 30px;
+  display: flex;
+  padding: 9px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 153px;
+  box-sizing: border-box;
+}
+.property-1-default-2 .no-file-choosen {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.property-1-default-2 .frame-148 {
+  background: #FFFFFF;
+  display: flex;
+  padding: 10px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 200px;
+  box-sizing: border-box;
+}
+.property-1-default {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 6px 19px 9px;
+  box-sizing: border-box;
+}

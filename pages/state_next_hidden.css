@@ -1,0 +1,14 @@
+.state-next-hidden .next {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.state-next-hidden {
+  border-radius: 30px;
+  background: rgba(0, 117, 255, 0.5);
+  display: flex;
+  padding: 15px 0;
+  box-sizing: border-box;
+}

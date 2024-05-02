@@ -1,0 +1,9 @@
+.state-default .vector {
+  width: 26px;
+  height: 26px;
+}
+.state-default {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  display: flex;
+  box-sizing: border-box;
+}

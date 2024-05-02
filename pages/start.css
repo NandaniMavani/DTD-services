@@ -1,0 +1,73 @@
+.start .rectangle-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 15px;
+  border: 2px solid #000000;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 54px;
+  translate: -50% 0;
+  width: 339px;
+  height: 824px;
+}
+.start .ellipse-1 {
+  position: relative;
+  margin-bottom: 69px;
+  width: 208px;
+  height: 195px;
+}
+.start .dtd-services-is-an-application-that-offers-daily-required-services-at-home-on-your-fingertips-dtd-services-aims-to-provide-reliable-and-professional-services-to-the-users-the-service-provider-can-easily-use-the-application-to-showcase-their-skills-and-work-at-their-convenient-time {
+  position: relative;
+  margin-bottom: 105px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 15px;
+  color: #000000;
+}
+.start .login-1 {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.start .group-2 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  margin: 0 2px 32.6px 0;
+  display: flex;
+  padding: 15px 0 18.4px 0;
+  width: 250px;
+  box-sizing: border-box;
+}
+.start .login {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.start .group-1 {
+  border-radius: 50px;
+  background: #36362E;
+  position: relative;
+  margin-right: 2px;
+  display: flex;
+  padding: 15px 0 18.4px 0;
+  width: 250px;
+  box-sizing: border-box;
+}
+.start {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #EBBB87;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 134px 0 152.6px 0;
+  box-sizing: border-box;
+}

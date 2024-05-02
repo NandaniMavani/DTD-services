@@ -1,0 +1,21 @@
+.user-login-register-sub2 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 300px;
+  line-height: 1.333;
+}
+.frame-105 .user-login-register {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 100px;
+  color: #000000;
+}
+.frame-105 {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 10px;
+  width: 3000px;
+  box-sizing: border-box;
+}

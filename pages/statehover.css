@@ -1,0 +1,14 @@
+.statehover .am {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.statehover {
+  border-radius: 50px;
+  background: #87B7FF;
+  display: flex;
+  padding: 8.5px 9.2px;
+  box-sizing: border-box;
+}

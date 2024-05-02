@@ -1,0 +1,227 @@
+.cancel-schedule .icon-magnifyingglass {
+  margin: 3.1px 6px 3.1px 0;
+  width: 15.6px;
+  height: 15.8px;
+}
+.cancel-schedule .placeholder {
+  overflow-wrap: break-word;
+  font-family: 'SF Pro Text', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  letter-spacing: -0.4px;
+  line-height: 1.294;
+  color: var(--label-color-light-secondary, rgba(60, 60, 67, 0.6));
+}
+.cancel-schedule .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.cancel-schedule .sf-symbol-microphone {
+  margin: 2.2px 0;
+  width: 11.9px;
+  height: 17.7px;
+}
+.cancel-schedule .search-field {
+  border-radius: 10px;
+  background: var(--fill-color-light-tertiary, rgba(118, 118, 128, 0.12));
+  margin: 0 0 55px 39px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 8px;
+  width: calc(100% - 39px);
+  box-sizing: border-box;
+}
+.cancel-schedule .my-schedule {
+  margin: 0 10px 36px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  line-height: 0.647;
+  color: #000000;
+}
+.cancel-schedule .no-appointments {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 32px;
+  color: #000000;
+}
+.cancel-schedule .frame-131 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  margin: 0 24px 36px 14px;
+  display: flex;
+  padding: 54px 1px 55px 0;
+  width: calc(100% - 38px);
+  box-sizing: border-box;
+}
+.cancel-schedule .previous-appointments {
+  margin: 0 2px 32px 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 34px;
+  letter-spacing: -0.4px;
+  line-height: 0.647;
+  color: #000000;
+}
+.cancel-schedule .grooming-hair-cut {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.cancel-schedule .frame-94 {
+  border-radius: 20px;
+  background: rgba(255, 103, 103, 0.1);
+  position: relative;
+  margin-right: 6px;
+  height: 62px;
+  flex-grow: 1;
+  flex-basis: 237px;
+}
+.cancel-schedule .pm {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.cancel-schedule .frame-78 {
+  border-radius: 20px;
+  background: rgba(142, 221, 255, 0.1);
+  margin: 13.5px 0;
+  display: flex;
+  padding: 8.5px 9.4px;
+  flex-grow: 1;
+  flex-basis: 75px;
+  box-sizing: border-box;
+}
+.cancel-schedule .frame-93 {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 26px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cancel-schedule .feed-back {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.cancel-schedule .frame-166 {
+  border-radius: 30px;
+  background: #80BAFF;
+  margin: 0 36px;
+  display: flex;
+  align-self: flex-start;
+  padding: 15.5px 0;
+  width: 130px;
+  box-sizing: border-box;
+}
+.cancel-schedule .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cancel-schedule .date-01122024 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 15px;
+  color: #000000;
+}
+.cancel-schedule .frame-1321 {
+  position: absolute;
+  left: 125.3px;
+  top: 14.5px;
+  display: flex;
+  box-sizing: border-box;
+}
+.cancel-schedule .frame-132 {
+  border-radius: 20px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 31px 9.6px 18px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cancel-schedule .group-33373 {
+  border-radius: 20px;
+  margin: 0 17.7px 431px 9.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 27.4px);
+  box-sizing: border-box;
+}
+.cancel-schedule .in-the-hands-of-aprofessional {
+  border-radius: 20px;
+  background: url('../assets/images/in_the_hands_of_aprofessional_2.png') 50% / contain no-repeat;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 250px;
+}
+.cancel-schedule .golden-star-hair-saloon {
+  margin-right: 0.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: -0.4px;
+  line-height: 1.1;
+  color: #000000;
+}
+.cancel-schedule .frame-130 {
+  margin-right: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 8px);
+  box-sizing: border-box;
+}
+.cancel-schedule .container-1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cancel-schedule .menu {
+  background: url('../assets/images/menu.png') 50% / contain no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+  width: 55px;
+  height: 41px;
+}
+.cancel-schedule {
+  background: #FFFFFF;
+  display: flex;
+  padding: 35px 7px 0 15px;
+  box-sizing: border-box;
+}

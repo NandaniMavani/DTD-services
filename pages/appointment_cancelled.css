@@ -1,0 +1,51 @@
+.appointment-cancelled .frame {
+  margin: 0 1px 18px 0;
+  width: 134px;
+  height: 134px;
+}
+.appointment-cancelled .appointment-cancelled-1 {
+  margin-bottom: 83px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 0.938;
+  color: #52B46B;
+}
+.appointment-cancelled .congratulations-your-appointment-is-cancelled {
+  margin: 0 2px 33px 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.5;
+  color: #161616;
+}
+.appointment-cancelled .go-to-my-schedule {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.appointment-cancelled .group-33372 {
+  border-radius: 30px;
+  background: #0075FF;
+  position: relative;
+  margin: 0 13.7px 0 12.7px;
+  display: flex;
+  padding: 10px 0 11px 0;
+  width: calc(100% - 26.4px);
+  box-sizing: border-box;
+}
+.appointment-cancelled {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 88px 29.3px 352px 30.3px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,14 @@
+.state-back .back {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.state-back {
+  border-radius: 30px;
+  background: #A8A8A8;
+  display: flex;
+  padding: 15px 0;
+  box-sizing: border-box;
+}

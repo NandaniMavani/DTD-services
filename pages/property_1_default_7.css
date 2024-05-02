@@ -1,0 +1,13 @@
+.property-1-default-7 .enter-email-here {
+  overflow-wrap: break-word;
+  font-family: 'Crimson Text';
+  font-weight: 700;
+  font-size: 20px;
+  color: #ABA0A0;
+}
+.property-1-default {
+  border-bottom: 2px solid #000000;
+  background: #FFFFFF;
+  padding: 28px 0 3px 0;
+  box-sizing: border-box;
+}

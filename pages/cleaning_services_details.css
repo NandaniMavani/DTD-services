@@ -1,0 +1,689 @@
+.cleaning-services-details .profile-creation-adding-services {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 23px;
+  letter-spacing: 0.2px;
+  color: #000000;
+}
+.cleaning-services-details .frame-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  background: #FFFFFF;
+  margin-bottom: 39px;
+  display: flex;
+  padding-bottom: 3px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .rectangle-1000 {
+  background: rgba(0, 163, 255, 0.28);
+  width: 370px;
+  height: 500px;
+}
+.cleaning-services-details .group-29 {
+  position: absolute;
+  right: 15px;
+  bottom: 19px;
+  display: flex;
+  width: 370px;
+  height: 500px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .image-28 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 100px;
+  background: url('../assets/images/image_28.png') 50% / cover no-repeat;
+  margin-right: 18px;
+  width: 100px;
+  height: 100px;
+}
+.cleaning-services-details .cleaning-services-select-at-least-one-service-from-list {
+  margin: 23.5px 0 31.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .container-4 {
+  margin: 0 18px 11px 18px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.cleaning-services-details .line-1 {
+  background: rgba(205, 205, 205, 0.5);
+  margin-bottom: 8px;
+  width: 400px;
+  height: 3px;
+}
+.cleaning-services-details .vector {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin: 0 15px 56px 0;
+  width: 26px;
+  height: 26px;
+}
+.cleaning-services-details .kitchen-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-102 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 1px 17px 0 0;
+  display: flex;
+  padding: 5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 155px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-2 {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .line-21 {
+  background: #000000;
+  margin-right: 19.7px;
+  width: 1px;
+  height: 25px;
+}
+.cleaning-services-details .container-3 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-91 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  flex-grow: 1;
+  flex-basis: 100px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-2 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .short-description-about-tools-and-materials-you-will-be-using-1 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.25);
+}
+.cleaning-services-details .group-111 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 10px 2.1px 10px 5.3px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-20 {
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 272px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-25 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 29px 9px 28px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .vector-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin: 0 14px 56px 0;
+  width: 26px;
+  height: 26px;
+}
+.cleaning-services-details .carpet-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-101 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 1px 17px 0 0;
+  display: flex;
+  padding: 5px 2px 5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 155px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .line-2 {
+  background: #000000;
+  margin-right: 19.7px;
+  width: 1px;
+  height: 25px;
+}
+.cleaning-services-details .container-1 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-9 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  flex-grow: 1;
+  flex-basis: 100px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-6 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .short-description-about-tools-and-materials-you-will-be-using {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.25);
+}
+.cleaning-services-details .group-11 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 10px 2.1px 10px 5.3px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-21 {
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 272px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-23 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 29px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .vector-4 {
+  width: 26px;
+  height: 26px;
+}
+.cleaning-services-details .checkbox-checked {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin: 1px 14px 55px 0;
+  display: flex;
+  width: 26px;
+  height: 26px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .sofa-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-10 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 1px 17px 0 0;
+  display: flex;
+  padding: 5px 2px 5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 155px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-8 {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .line-24 {
+  background: #000000;
+  margin-right: 19.7px;
+  width: 1px;
+  height: 25px;
+}
+.cleaning-services-details .container-9 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .sofa-cleaning-price {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  flex-grow: 1;
+  flex-basis: 100px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-1 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .short-description-about-tools-and-materials-you-will-be-using-4 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.25);
+}
+.cleaning-services-details .sofa-cleaning-1 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 10px 2.1px 10px 5.3px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-22 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 272px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-24 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 29px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .vector-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin: 1px 14px 55px 0;
+  width: 26px;
+  height: 26px;
+}
+.cleaning-services-details .bathroom-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-103 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 1px 17px 0 0;
+  display: flex;
+  padding: 5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 155px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-4 {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .line-22 {
+  background: #000000;
+  margin-right: 19.7px;
+  width: 1px;
+  height: 25px;
+}
+.cleaning-services-details .container-5 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-92 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  flex-grow: 1;
+  flex-basis: 100px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-5 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .short-description-about-tools-and-materials-you-will-be-using-2 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.25);
+}
+.cleaning-services-details .group-112 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 10px 2.1px 10px 5.3px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-19 {
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 272px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-26 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 29px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .vector-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.5);
+  margin: 0 14px 56px 0;
+  width: 26px;
+  height: 26px;
+}
+.cleaning-services-details .deep-cleaning {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-104 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 1px 17px 0 0;
+  display: flex;
+  padding: 5px 0;
+  height: fit-content;
+  flex-grow: 1;
+  flex-basis: 155px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-6 {
+  margin: 5px 9.8px 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .line-23 {
+  background: #000000;
+  margin-right: 19.7px;
+  width: 1px;
+  height: 25px;
+}
+.cleaning-services-details .container-7 {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: #000000;
+}
+.cleaning-services-details .group-93 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  padding-left: 9.8px;
+  flex-grow: 1;
+  flex-basis: 100px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .container {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .short-description-about-tools-and-materials-you-will-be-using-3 {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 13px;
+  color: rgba(0, 0, 0, 0.25);
+}
+.cleaning-services-details .group-113 {
+  border-radius: 3px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 10px 2.1px 10px 5.3px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-201 {
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  flex-basis: 272px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-27 {
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 29px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-28 {
+  margin: 0 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.cleaning-services-details .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-4 {
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.5);
+  border-radius: 20px;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 15px 50px 15px;
+  display: flex;
+  padding: 10px 0 18px 0;
+  width: calc(100% - 30px);
+  box-sizing: border-box;
+}
+.cleaning-services-details .back {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.cleaning-services-details .buttons {
+  border-radius: 30px;
+  background: #A8A8A8;
+  margin-right: 34px;
+  display: flex;
+  padding: 15px 0;
+  flex-grow: 1;
+  flex-basis: 162px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .next {
+  overflow-wrap: break-word;
+  font-family: 'Arial Rounded MT Bold', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+.cleaning-services-details .buttons-1 {
+  border-radius: 30px;
+  background: #0075FF;
+  display: flex;
+  padding: 15px 0;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.cleaning-services-details .group-30 {
+  border-radius: 30px;
+  flex-grow: 1;
+  flex-basis: 158px;
+  box-sizing: border-box;
+}
+.cleaning-services-details .frame-3 {
+  margin: 0 38px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 76px);
+  box-sizing: border-box;
+}
+.cleaning-services-details {
+  border-radius: 20px;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 61px 0 52px 0;
+  box-sizing: border-box;
+}
